@@ -33,7 +33,26 @@ m2
 ...
 
 
+Short Reference
+---------------
 
+parts:
+-
+l left
+r right
+t top
+g=ground
+b=back
+f=front
+h=horizontal
+v=vertical
+
+Properties
+-
+w width
+d depth
+h height
+x x-position
 
 -- =   align to korpus
     /////////////////////////////////
