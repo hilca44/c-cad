@@ -9,7 +9,7 @@ c-cad can not
 - can not working with lines and arcs
 - can not create dimensions
 
-usage
+Example 
 ------
 
 m0 4 54 1.5 #arbeitsplatte lichtgrau buche anleimer
@@ -38,8 +38,8 @@ Short Reference
 
 parts:
 -
-l left
-r right
+-l left
+-r right
 t top
 g=ground
 b=back
