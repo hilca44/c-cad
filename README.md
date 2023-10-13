@@ -4,10 +4,10 @@ CAD for creating basic furnitures, frontend for Threejs.
 - c-cad creates 3d models
 - input is only via text lines with special terminologie
 
-c-cad can not
+c-cad cannot
 -------------
-- can not working with lines and arcs
-- can not create dimensions
+- working with lines and arcs
+- create dimensions
 
 Example 
 ------
@@ -32,6 +32,8 @@ m1...
 m2
 ...
 
+Korpus List
+--
 
 Short Reference
 ---------------
