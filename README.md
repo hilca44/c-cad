@@ -1,4 +1,4 @@
-# c-cad
+-# c-cad
 CAD for creating basic furnitures, frontend for Threejs.
 - c-cad is a parametric korpus generator
 - c-cad creates 3d models
@@ -38,10 +38,10 @@ Korpus List
 Short Reference
 ---------------
 
-parts:
--
--l left
--r right
+Parts 
+--
+- l left
+- r right
 t top
 g=ground
 b=back
